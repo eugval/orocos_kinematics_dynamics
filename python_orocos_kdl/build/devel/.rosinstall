@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/eugene/Projects/coarse-to-fine/dependencies/orocos_kinematics_dynamics/python_orocos_kdl/build/devel/setup.sh
